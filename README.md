@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Tayyab67
 - 👀 I’m interested in Web Development Backend
-- 🌱 I’m currently learning PHP and .NET
+- 🌱 I’m currently learning Flutter and .NET
 - 📫 How to reach me mt6780175@gmail.com
 
 <!---
